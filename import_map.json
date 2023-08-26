@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/btp/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
